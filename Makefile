@@ -1,5 +1,5 @@
 # By default we want to build.
-all: install build
+all: install build 
 
 # ===== Basic Development Rules =======================================================================================
 
